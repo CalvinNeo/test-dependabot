@@ -1,0 +1,3 @@
+[submodule "contrib/tiflash-proxy"]
+	path = contrib/tiflash-proxy
+	url = git@github.com:pingcap/tidb-engine-ext.git
